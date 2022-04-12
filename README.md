@@ -3,7 +3,7 @@ About The Sparks Foundation Internship, GRIP : April-22 "Data Science &amp; Busi
 
 
 Author - Akash Singh <br>
-The Sparks Foundation - GRIP- Data Science and Business Analytics
-April 2022
-Task 1 - Prediction using Supervised Machine Learning
+The Sparks Foundation - GRIP- Data Science and Business Analytics <br>
+April 2022 <br>
+Task 1 - Prediction using Supervised Machine Learning <br>
 Predicting the percentage of a student based on the number of study hours.
